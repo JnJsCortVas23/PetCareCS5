@@ -20,7 +20,7 @@ const PetsStack = () => {
       <Stack.Screen
         name="PetList"
         component={PetListScreen}
-        options={{ title: 'Tu Papá en tanga' }}
+        options={{ title: 'Mascotas' }}
       />
       <Stack.Screen
         name="PetDetail"
